@@ -1,0 +1,1 @@
+print("There are 20 drivers on the F1 grid")
