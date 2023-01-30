@@ -1,7 +1,9 @@
 # F1-Data
+
 Manipulation of text files using a range of git commands.
 
 ## Contents
 
-*Merging
-*Branching
+* Merging
+* Branching
+* Stashing
